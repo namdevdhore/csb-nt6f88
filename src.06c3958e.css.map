@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,EACE,SAAU,CACV,QACF,CAEA,MACE,eACF,CAEA,OACE,UAAW,CACX,iBACF","file":"src.06c3958e.css","sourceRoot":"..","sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n}\n\nvideo {\n  max-width: 100vw;\n}\n\nbutton {\n  width: 60px;\n  margin-right: 20px;\n}\n"]}
